@@ -90,10 +90,10 @@
     /*解决影响百度搜索显示结果问题*/\
     .head_nums_cont_outer {\
     /*margin-top:20px;*/\
-    margin-left: 50px;\
-    width: 450px;\
-    background-color: white;\
-    margin-bottom: -20px;\
+    /*margin-left: 50px;*/\
+    /*width: 450px;*/\
+    /*background-color: white;*/\
+    /*margin-bottom: -20px;*/\
     }\
     /*sapn display化*/\
     /*显示在前面的展开列表的类型,比如 网页,音乐,下载等.*/\
